@@ -6,12 +6,6 @@ https://www.virtualbox.org/wiki/Downloads
 Download Ubuntu from https://ubuntu.com/download/desktop and then from virtualbox choose new and choose the type of operating system linux as shown in the picture
  
 
-
-
-
-
-
-
 Choose the memory size, then click Next
  
 Choose the create a virtual hard disk now, then click Create

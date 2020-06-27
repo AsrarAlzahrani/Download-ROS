@@ -1,4 +1,4 @@
-install ROS
+Install ROS
 
 How to install ROS on your device 
 Download Virtualbox to your device to install Ubuntu from this link
